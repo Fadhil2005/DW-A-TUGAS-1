@@ -1,6 +1,12 @@
 # Laporan Panduan dasar Git & Github
 
-Ini adalah dokumentasi yang berisi langkah-langkah instalisasi **Instalisasi Git** , **alur kerja dasar Git secara lokal** , dan **intergrasi dengan Github untuk Kerja tim**
+Selamat datang di dokumentasi Git & GitHub saya! Panduan ini dirancang untuk membantumu menguasai dasar-dasar Git serta sebagai laporan tugas matakuliah saya, mulai dari instalasi hingga berkolaborasi dengan tim menggunakan GitHub.
+
+Disusun oleh:
+
+Nama: Fadhil Pratama
+
+NPM: 4524210032
 
 ## Bagian 1: Instalasi & Konfigurasi Awal Git 
 
