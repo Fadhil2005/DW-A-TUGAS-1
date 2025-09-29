@@ -108,7 +108,7 @@ git config --global user.email "email@kamu.com"
 
 2. Hubungkan & Push Proyek Lokal ke GitHub
    ```bash
-   it remote add origin https://github.com/NamaUserKamu/proyek-web-pertama.git
+   git remote add origin https://github.com/NamaUserKamu/proyek-web-pertama.git
    git branch -M main
    git push -u origin main
    ```
